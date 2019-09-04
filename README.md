@@ -2,6 +2,11 @@
 
 This Repository contains the example Spring Boot application for the guide at [camunda.org](http://camunda.org/get-started/spring-boot.html).
 
+
+##Simple Workflow
+
+![Alt text](docs/img/simple_workflow.png "Title")
+
 ```
 It uses embeded databse so data will be erased on restart
 
